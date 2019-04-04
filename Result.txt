@@ -1,0 +1,12 @@
+# 1: ATATG
+ # 2: AAATTTGC
+# # Gap: -2
+# Match: 2
+# Mismatch -1
+# Score: 1
+# Length 8
+# Identity 4/8
+# Gaps: 3/8
+--ATATG-
+  || || 
+AAATTTGC
