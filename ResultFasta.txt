@@ -1,0 +1,4 @@
+> seq1
+CGT-AGTACG-TA
+> seq2
+GTACGTACGTGA
