@@ -1,0 +1,10 @@
+# 1: CGTGTATCAGT
+# 2: AGTCATGTACTA
+# # Gap: -2
+# Score: 62
+# Length 13
+# Identity 7/13
+# Gaps: 4/13
+CG-TGTATC-A
+|  |||| | |
+C-ATGTA-CTA
