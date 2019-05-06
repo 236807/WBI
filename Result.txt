@@ -1,9 +1,0 @@
-# 1: CGTAGTACGTA
-# 2: GTACGTACGTGA
-# # Gap: -2
-# Score: 96
-# Length 13
-# Identity 13/13
-# Gaps: 2/13
-CGT-AGTACG-TA
-GTACGTACGTGA
