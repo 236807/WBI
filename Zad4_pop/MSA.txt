@@ -1,0 +1,7 @@
+Multiple Sequence Alignment: 
+_CGAT
+ACG_T
+ ** *
+ACG_T
+_CCGA_
+ *   
