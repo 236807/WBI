@@ -1,0 +1,18 @@
+Multiple Sequence Alignment: 
+KOSZT CALKOWITY =: 146
+
+CCCTGATAGCTAGA-T
+--GTCA-A-CTTGACT
+   * * * ** ** *
+--GTCA-A-CTTGACT
+--GTCA-A-CTTGACT
+****************
+--GTCA-A-CTTGACT
+--GTCA-A-CTTGACT
+****************
+--GTCA-A-CTTGACT
+-AGTCAT-G-TACT-A
+* ****    *     
+-AGTCAT-G-TACT-A
+-CGTG-TATC-AG--T
+* **  *    *  * 

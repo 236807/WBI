@@ -1,0 +1,1 @@
+Phylogenetic Tree (Newick format): (((CCCTGATAGCTAGA-T:4.0, -CGTG-TATC-AG--T:4.0):1.5, --GTCA-A-CTTGACT:5.5):1.75, -AGTCAT-G-TACT-A:7.25);
